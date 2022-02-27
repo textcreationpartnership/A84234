@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good newes from the Earle of Essex and the noble commander, Sergeant Major Skippon; VVherein is declared how the said Sergeant-major Skippon, with 4000. horse and foote, met with Prince Robert [sic], with 5000. cavaliers, neere the city of Gloucester, on the twelfe of this instant December. Where they fought for the space of seven houres, and slew 800. of the cavaliers,, [sic] with the losse of 60. men, putting the rest to flight, and tooke foure pieces of ordnance, with store of other ammunition. Also Sergeant-major Skippons resolution concerning Prince Robert [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84234</idno>
+            <idno type="STC">Wing E3738</idno>
+            <idno type="STC">Thomason E130_34</idno>
+            <idno type="STC">ESTC R22445</idno>
+            <idno type="EEBO-CITATION">99871754</idno>
+            <idno type="PROQUEST">99871754</idno>
+            <idno type="VID">156322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156322)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good newes from the Earle of Essex and the noble commander, Sergeant Major Skippon; VVherein is declared how the said Sergeant-major Skippon, with 4000. horse and foote, met with Prince Robert [sic], with 5000. cavaliers, neere the city of Gloucester, on the twelfe of this instant December. Where they fought for the space of seven houres, and slew 800. of the cavaliers,, [sic] with the losse of 60. men, putting the rest to flight, and tooke foure pieces of ordnance, with store of other ammunition. Also Sergeant-major Skippons resolution concerning Prince Robert [sic].</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+                  <author>Skippon, Philip, d. 1660.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>December 16. printed for Joseph Hutton,</publisher>
+                  <pubPlace>[N.p.] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156322:1" rendition="simple:additions"/>
+            <p>EXCEEDING Good Newes from the Earle of ESSEX And that noble Commander, Sergeant Major SKIPPON;</p>
+            <p>VVherein is declared how the ſaid Sergeant-major <hi>Skippon,</hi> with 4000. Horſe and Foote, met with Prince <hi>Robert,</hi> with 5000. Cavaliers, neere the City of <hi>Glouceſter,</hi> on the twelfe of this inſtant <hi>December.</hi>
+            </p>
+            <p>Where they fought for the ſpace of ſeven houres, and ſlew 800. of the Cavaliers,, with the loſſe of 60. men, putting the reſt to flight, and tooke foure Pieces of Ordnanc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, with ſtore of other Ammunition.</p>
+            <p>Alſo Sergeant-major <hi>Skippons</hi> reſolution concerning Prince ROBERT.</p>
+            <p>
+               <hi>December</hi> 16. printed for <hi>Joſeph Hutton,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156322:2"/>
+            <pb facs="tcp:156322:2"/>
+            <head>A famous Victory obtained by Sergeant Major SKIPPON:</head>
+            <p>
+               <seg rend="decorInit">T</seg>He thrice noble and re<g ref="char:EOLhyphen"/>nowned Earle of <hi>ESSEX,</hi> Lord Generall of the par<g ref="char:EOLhyphen"/>liaments Forces, accompa<g ref="char:EOLhyphen"/>nied with that noble and heroicke ſpirit Sergeant Major <hi>Skippon,</hi> whoſe very name doth now beginne to to terifie the Malignant Crew, and doth beginne to fall off, not daring to give him Battalle whereſoever he commeth, unleſse they have five to one, as it will appeare by this enſuing Relation.</p>
+            <p>Sergeant Major <hi>Skippon,</hi> that valiant &amp;
+<pb facs="tcp:156322:3"/>prudent Souldier, and one that is wil<g ref="char:EOLhyphen"/>ling to ſacrafice his Life in this ſo good and juſt a cauſe, for the defence of his Majeſty and both Houſes of parliament having intelligence by a Gentleman that is very well affected, which came to his Excellencies Army, informing his highnes that prince <hi>Robert</hi> was come into <hi>Wiltſhire</hi> with a reſolution to pil lage all thoſe that would not adhere to him, and that he did great ſpoyle in that County, taking much Armes and Ammunition from them, whereupon his Excellence after ſome debate upon the buſineſſe, appointed that Sergeant Major <hi>Skippon</hi> to march towards them, with 4000. Horſe and foot, whereof 2000. Draggooners, the Sergeant Ma<g ref="char:EOLhyphen"/>jor was very willing to obey his com<g ref="char:EOLhyphen"/>mand, and with a cheerefull reſolution, drew out foure thouſand men, and with valliant ſpirits they followed him, mar<g ref="char:EOLhyphen"/>ching day and night, untill they came to the Enemy, and upon Munday laſt
+<pb facs="tcp:156322:3"/>each man had his deſire Prince <hi>Robert</hi> hearing of his comming made all the haſt he could to meete him, before he could get to <hi>Hungerford</hi> and there to give him battaile, but Prince <hi>Robert</hi> miſſed his ayme for before he could get ſome three miles on this ſide <hi>Marlow</hi> Sergeant Major <hi>Skippon</hi> was paſt <hi>Hunger ford</hi> which is about ſeven miles one this ſide <hi>Marleborough,</hi> and upon Sunday night they law two miles off each other and upon munday morning marched unto each other, whereafteer ſome Par<g ref="char:EOLhyphen"/>ley Sergeant Major <hi>Skippon</hi> commanded his Ordnance which was in the front to be diſcharged, the Prince anſwering him in the ſame.</p>
+            <p>Sergent Major Skipton invading his Leſt wing of Dragoners doeing ſpeciall ſervice Fighting as it weare in Rings, where not to be broken by the Prince Troope, though they endeavoured it withall their fury and violence for an houre at leaſt remained the ſight in equall ſcale, and the Cavaliers fell off
+<pb facs="tcp:156322:4"/>and on verry fiercely<g ref="char:punc">▪</g> but that well ex<g ref="char:EOLhyphen"/>perienced Souldier Sergant Major <hi>Skip<g ref="char:EOLunhyphen"/>ton,</hi> fighting in a halfe moone battaile according to the ſwediſh diſcipline, his men giveing fire all at one inſtant one their left wing they were no longer able to keepe ranck, but fell into appa<g ref="char:EOLhyphen"/>rant rout<g ref="char:punc">▪</g> retreating as faſt as they could, there Right wing was yet un<g ref="char:EOLhyphen"/>broken, but Prince <hi>Robert</hi> did ſo vali<g ref="char:EOLhyphen"/>antly behave himſelfe and ſo deſperate was the charging on of his Cavaliers, that had not a Colonell who comman<g ref="char:EOLhyphen"/>ded our right Wing, beene an excellent Souldier, he had run the eminent haz<g ref="char:EOLhyphen"/>ard of our defeat, but at laſt Sergeant Major <hi>Skipton</hi> with his left wing, brake into the Princes flanck himſelf with his battaileax beating downe many a Cava<g ref="char:EOLhyphen"/>lier, Prince <hi>Robert</hi> ſeing this began to retreate, he and his Cavaliers to the number of ſome five thouſand horſe broke away through the end of our right Wing and fledtowards <hi>Shrewſbury.</hi>
+            </p>
+            <pb facs="tcp:156322:4"/>
+            <p>All their Foot, to the number of three hundred; were cut off, and about five hundred of their Horſe, but ſo great was Gods mercy to the forces rayſed by the Parliament, for the defence of the Kings moſt excellent Majeſty, the Religion Lawes and Liberties of the Kingdome, the juſt priviledges of Parliament, and the propriety of the Subject, that (not<g ref="char:EOLhyphen"/>withſtanding that they were ſo many in number, exceeding ours, namely five to one, yet ſo many of them were ſlaine, as is above mentioned, and Sergeant Major <hi>SKIPPON,</hi> loſt but three<g ref="char:EOLhyphen"/>ſcore, beſides he tooke foure pieces of Ordnance, five hundred pikes and muſ<g ref="char:EOLhyphen"/>quets, with an abundance of othei Am<g ref="char:EOLhyphen"/>munition of all ſorts.</p>
+            <p>Likewiſe after the Battaile he tooke great ſtore of their Baggage, they being in ſuch poſt haſt, that they could not take it along with them, ſo great a vic<g ref="char:EOLhyphen"/>tory with ſo little loſse hath not beene obtained as yet.</p>
+            <pb facs="tcp:156322:5"/>
+            <p>And the ſaid Sergeant Major is re<g ref="char:EOLhyphen"/>ſolved to purſue theſe runaway Cavaliers to their deſtruction, and the Countries dayly come in to his aſſiſtance,</p>
+            <p>The Gentry and Commonalty of <hi>Huntington, Lincolne, Northampton,</hi> and <hi>Liceſterſhire,</hi> have joyned themſelves in aſſociation, and doe declare that they are reſolved to hazard their lives in the defence of his Majeſty, and both Hou<g ref="char:EOLhyphen"/>ſes of Parliament. and that they will ne<g ref="char:EOLhyphen"/>ver leave fighting, till theſe malignants are quite deſtroyed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156322:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
